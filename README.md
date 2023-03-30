@@ -62,7 +62,7 @@
 ### Live Demo
 Here is our [Project Demonstration](#)
 
-front end react oath [Project path](https://github.com/manq2010/hello-react-front-end)
+front end react oath [Project path](https://github.com/frnega/hello-react-front-end)
 
 ### Running the app
 
