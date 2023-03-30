@@ -60,11 +60,17 @@
 <!-- Features -->
 
 ### Live Demo
-Here is our [Project Demonstration](https://www.loom.com/share/94120d61fa5749a68a7872d2721e61fc) video
+Here is our [Project Demonstration](#)
 
-Here is our [Project path](https://mymoneyfrenew.onrender.com/)
+front end react oath [Project path](https://github.com/manq2010/hello-react-front-end)
 
+### Running the app
 
+rails db:create:all
+rails db:migrate
+rails db:seed ### to populate the database with some sample data.
+rails s ## to start the server.
+http://127.0.0.1:3000/api/message2s/random_greeting
 ### Key Features <a name="key-features"></a>
 
 - **random generation of message**
