@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd PATH
-  git clone https://github.com/frnega/Budget-app
+  git clone https://github.com/frnega/hello-rails-back-end
 ```
 
 ### Install
