@@ -70,7 +70,7 @@ rails db:create:all
 rails db:migrate
 rails db:seed ### to populate the database with some sample data.
 rails s ## to start the server.
-http://127.0.0.1:3000/api/message2s/random_greeting
+http://127.0.0.1:3000/api/messages/random_greeting
 ### Key Features <a name="key-features"></a>
 
 - **random generation of message**
